@@ -1,0 +1,33 @@
+						
+username=testfilewrite
+password=hopeitworkks
+
+												
+username=check
+password=testingredirection
+
+												
+username=saxun
+password=saxun
+
+												
+username=test
+password=test
+
+												
+username=Test
+password=t3st
+
+												
+username=Mefaud
+password=testaqw
+
+												
+username=Fuad.murad@safaricom.et
+password=Iamfuax@Ghjf432
+
+												
+username=Hack aregesh moteshal
+password=denekem havker uffey
+
+						
