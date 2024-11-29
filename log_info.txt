@@ -23,10 +23,6 @@ username=Mefaud
 password=testaqw
 
 												
-username=Fuad.murad@safaricom.et
-password=Iamfuax@Ghjf432
-
-												
 username=Hack aregesh moteshal
 password=denekem havker uffey
 
